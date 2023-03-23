@@ -1,6 +1,0 @@
-[dependencies]
-serde = { version = "1.0", features = ["derive"] }
-serde_json = "1.0"
-warp = "0.3"
-tokio = { version = "1.0", features = ["full"] }
-crypto-hash = "0.3"
